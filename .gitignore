@@ -25,7 +25,8 @@ Cargo.lock
 /target
 *.png
 *.mp4
-/media
-/lyric-extract
-/fonts
+lyric-extract/
+fonts/
 font.ttf
+output/
+*.srt
